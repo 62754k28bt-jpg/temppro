@@ -1,42 +1,32 @@
 {
-  "Pilates room": {
-    "sensor": "TP351S (0E94)",
-    "bluetooth_id": "13093B5E-F3B5-43F5-8F3B-5381BFDC6F5C",
-    "temperature": 19.5,
-    "humidity": 60,
-    "dew_point": 11.5,
-    "battery": 100,
-    "low_battery": false,
-    "updated": "2026-09-20T12:22:21"
-  },
-  "Sitting room": {
-    "sensor": "TP351S (B6E2)",
-    "bluetooth_id": "4D09F3D7-94FD-4C30-8EB5-37D5FE769643",
-    "temperature": 20.2,
-    "humidity": 55,
-    "dew_point": 10.9,
-    "battery": 100,
-    "low_battery": false,
-    "updated": "2026-09-20T12:11:38"
-  },
   "Snug": {
     "sensor": "TP351S (9468)",
     "bluetooth_id": "95A63271-8203-4803-ADCF-90289A90F2C0",
     "temperature": 19.5,
-    "humidity": 60,
-    "dew_point": 11.5,
+    "humidity": 58,
+    "dew_point": 11.0,
     "battery": 50,
     "low_battery": false,
-    "updated": "2026-09-20T12:24:39"
+    "updated": "2026-09-20T13:25:09"
+  },
+  "Sitting room": {
+    "sensor": "TP351S (B6E2)",
+    "bluetooth_id": "4D09F3D7-94FD-4C30-8EB5-37D5FE769643",
+    "temperature": 20.3,
+    "humidity": 54,
+    "dew_point": 10.7,
+    "battery": 100,
+    "low_battery": false,
+    "updated": "2026-09-20T13:24:24"
   },
   "Basement": {
     "sensor": "TP351S (89F1)",
     "bluetooth_id": "4C98B6E3-8E12-4024-A268-725067DEB163",
     "temperature": 19.7,
-    "humidity": 64,
-    "dew_point": 12.7,
+    "humidity": 68,
+    "dew_point": 13.6,
     "battery": 50,
     "low_battery": false,
-    "updated": "2026-09-20T12:24:17"
+    "updated": "2026-09-20T13:24:57"
   }
 }
