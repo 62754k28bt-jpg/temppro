@@ -17,7 +17,7 @@
     "dew_point": 12.2,
     "battery": 50,
     "low_battery": false,
-    "updated": "2026-09-24T22:39:00"
+    "updated": "2026-09-24T22:39:30"
   },
   "Sitting room": {
     "sensor": "TP351S (B6E2)",
@@ -37,6 +37,6 @@
     "dew_point": 11.9,
     "battery": 50,
     "low_battery": false,
-    "updated": "2026-09-24T22:39:00"
+    "updated": "2026-09-24T22:39:34"
   }
 }
