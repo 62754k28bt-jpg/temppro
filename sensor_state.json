@@ -2,22 +2,22 @@
   "Sitting room": {
     "sensor": "TP351S (B6E2)",
     "bluetooth_id": "C02AA714-ED95-4BC1-9EBA-A154114236D1",
-    "temperature": 16.5,
-    "humidity": 60,
-    "dew_point": 8.7,
+    "temperature": 16.8,
+    "humidity": 58,
+    "dew_point": 8.5,
     "battery": 1,
     "low_battery": true,
-    "updated": "2026-10-28T19:38:24"
+    "updated": "2026-10-28T20:39:12"
   },
   "Snug": {
     "sensor": "TP351S (9468)",
     "bluetooth_id": "28039C84-CE52-4AFF-BC83-F03004DF5AB5",
-    "temperature": 15.9,
-    "humidity": 66,
-    "dew_point": 9.6,
+    "temperature": 15.5,
+    "humidity": 67,
+    "dew_point": 9.4,
     "battery": 50,
     "low_battery": false,
-    "updated": "2026-10-28T19:39:09"
+    "updated": "2026-10-28T20:39:03"
   },
   "Pilates room": {
     "sensor": "TP351S (0E94)",
